@@ -1,0 +1,19 @@
+.intro{
+    text-align: center;
+}
+#Assignment th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+#Assignment {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* border-collapse: collapse; */
+    width: 100%;
+}
+#Assignment td{
+    padding: 10px;
+    text-align: center;
+}
